@@ -1,5 +1,4 @@
 # BabarKamal
-The description of my profile
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammad Babar Kamal</h1>
 <h3 align="center"> Researcher | University Teacher | AI Developer | Transformers Speech Recognition| AI in Medical Imaging developer  </h3>
 <p align="center">
